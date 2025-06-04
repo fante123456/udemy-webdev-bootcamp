@@ -1,11 +1,11 @@
-# 🧠 My Udemy Web Dev Bootcamp Projects
+#  My Udemy Web Dev Bootcamp Projects
 
 Welcome to my journey as a web developer!  
 This repository includes all the projects I created while following the [Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu.
 
 ---
 
-## 🚀 What You'll Find Here
+#  What You'll Find Here
 
 Each folder is organized by course section:
 
@@ -21,7 +21,7 @@ Each folder is organized by course section:
 
 ---
 
-## 🎯 Why I Made This
+#  Why I Made This
 
 I wanted to:
 - Track my progress clearly
@@ -34,4 +34,4 @@ I wanted to:
 📌 This is a living repository — I’ll keep updating it as I move through the course.
 
 Thanks for stopping by!  
-– **Ammar Rajabi**
+– Ammar Rajabi
